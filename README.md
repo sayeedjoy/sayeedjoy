@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sayeed Joy</h1>
 <h3 align="center">Android Developer and OSINT/SocMint Expert</h3>
 
-- 🌱 I’m currently learning **KMP**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 📝 I regularly write articles on [blog.sayeedjoy.com](blog.sayeedjoy.com)
 
 - 💬 Ask me about **android, kotlin**
 
-- 📫 How to reach me **joy[at]sayeedjoy.com**
+- 📫 How to reach me **joy[at]sayeedjoy[dot]com**
 
 - ⚡ Fun fact **Coffe**
 
