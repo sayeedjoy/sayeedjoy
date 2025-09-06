@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **android, kotlin**
 
-- 📫 How to reach me **joy[at]sayeedjoy[dot]com**
+- 📫 How to reach me **hello[at]sayeedjoy[dot]com**
 
 - ⚡ Fun fact **Coffe**
 
